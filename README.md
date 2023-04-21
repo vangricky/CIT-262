@@ -1,3 +1,5 @@
 CIT 262 IT Management and DevOps
 
-This repository is dedicated for any work and progress throughout the 2023 Spring semester.
+This repository will be for the class CIT262, IT Management & DevOps.
+Brigham Young University - Idaho
+Spring 2023 Semester
